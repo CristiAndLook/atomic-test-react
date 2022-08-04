@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atomic-test-react/static/css/main.c36ae246.css",
+    "main.js": "/atomic-test-react/static/js/main.a8cd9af7.js",
+    "index.html": "/atomic-test-react/index.html",
+    "static/media/delete.svg": "/atomic-test-react/static/media/delete.1bd0c1ab242deff5ab74bb6d47da26f4.svg",
+    "static/media/check.svg": "/atomic-test-react/static/media/check.1cd1a8cfeb3e57068028ed449d41d236.svg",
+    "main.c36ae246.css.map": "/atomic-test-react/static/css/main.c36ae246.css.map",
+    "main.a8cd9af7.js.map": "/atomic-test-react/static/js/main.a8cd9af7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c36ae246.css",
+    "static/js/main.a8cd9af7.js"
+  ]
+}
